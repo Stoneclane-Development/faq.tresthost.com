@@ -8,11 +8,23 @@
 
 > Then click on register and fill in the necessary information and click on register. 
 
-> There is a ``servers`` section in the left corner of your account. After clicking on this section, press the ``add server`` button in the upper left corner and select the service you want. (coin is required to create server, you need euro for coin) 
+> There is a ``servers`` section in the left corner of your account. After clicking on this section, press the ``add server`` button in the upper left corner and select the service you want. (coin is required to create server, you need euros for coins, or view the next section) 
 
 > After loading the required coin into your account, select your service and add the service you want. 
 
 > Then, after opening a server from dash, enter panel.tresthost.com and open an account with the same e-mail and password. The server you bought will appear on the panel. You can click on the panel and manage your server as you wish. 
+
+-------------
+
+## 2. How can I get coins? 
+
+> Option 1: You can buy Coins with Euros.
+
+> Option 2: You can join our Discord Server and redeem codes which gets released in the future.
+
+> Option 3: In the future we will release every 4 weeks ads you can watch for coins.
+
+> Option 4: You can search for bugs and report them to our team. The amount of Coins you will get is random. More information [here.](https://docs.google.com/document/d/1KVu93OmpmMnq1vlkUWIptIUdzB34S28iHW_tZDQMBVM)
 
 -------------
 
