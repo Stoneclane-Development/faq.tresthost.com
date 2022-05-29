@@ -20,9 +20,9 @@
 
 > Option 1: You can buy Coins with Euros.
 
-> Option 2: You can join our Discord Server and redeem codes which gets released in the future.
+> Option 2: You can join our Discord Server and redeem codes which will get published every few weeks.
 
-> Option 3: In the future we will release every 4 weeks ads you can watch for coins.
+> Option 3: We will publish ads with the time you can watch for coins.
 
 > Option 4: You can search for bugs and report them to our team. The amount of Coins you will get is random. More information [here.](https://docs.google.com/document/d/1KVu93OmpmMnq1vlkUWIptIUdzB34S28iHW_tZDQMBVM)
 
