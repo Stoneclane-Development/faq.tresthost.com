@@ -15,4 +15,4 @@
 > Then, after opening a server from dash, enter panel.tresthost.com and open an account with the same e-mail and password. The server you bought will appear on the panel. You can click on the panel and manage your server as you wish. 
 -------------
 ## faq do you have any questions? 
-If there is a question you want or want to add; Leave a message [to this email](mailto:code@botcords.ga). 
+If there is a question you want or want to add; Leave a message [to this email](mailto:questions@tresthost.com). 
