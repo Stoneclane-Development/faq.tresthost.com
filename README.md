@@ -1,4 +1,4 @@
-# Hello <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">!
+# Hello <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27">!
 
 > Here we will answer frequently asked questions about TrestHost. If you're viewing this site from github, see [here](https://faq.tresthost.com) for the full version. 
 
